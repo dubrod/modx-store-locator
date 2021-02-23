@@ -1,0 +1,7 @@
+{"status":200,"status_message":"Products Found","data":[ [[!migxLoopCollection? 
+&packageName=`storelocator` 
+&classname=`storelocatorItem` 
+&sortConfig=`[{"sortby":"id","sortdir":"ASC"}]` 
+&where=`{"postalcode":"[[!SanitizeZip]]","published":"1"}`
+&tpl=`retail-json`
+]] ]}
